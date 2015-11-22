@@ -16,10 +16,10 @@ directory.
 
 # Purp: Read several datasets and merge into a single dataset
 
-		features				: Column names of X_test.txt and X_train.txt
-		X_test.txt			: dataset
+		features		: Column names of X_test.txt and X_train.txt
+		X_test.txt		: dataset
 		subject_test		: Subjects associated with rows in X_test.txt
-		y_train.txt			: dataset
+		y_train.txt		: dataset
 		subject_train.txt	: Subjects associated with rows in Y_train.txt
 
 # Process:
