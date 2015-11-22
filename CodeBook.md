@@ -8,17 +8,17 @@ Also note the descript of column names are described as:
 
 	tBodyAcc-XYZ
 
-	mean(): Mean value
-	std(): Standard deviation
+	- mean(): Mean value
+	- std(): Standard deviation
 
 Expands to six (6) columns:
 
-	tBodyAcc-mean()-X
-	tBodyAcc-mean()-Y
-	tBodyAcc-mean()-Z
-	tBodyAcc-std()-X
-	tBodyAcc-std()-Y
-	tBodyAcc-std()-Z
+	- tBodyAcc-mean()-X
+	- tBodyAcc-mean()-Y
+	- tBodyAcc-mean()-Z
+	- tBodyAcc-std()-X
+	- tBodyAcc-std()-Y
+	- tBodyAcc-std()-Z
 
 **** Original is below ****
 -----------------------------------------------------------------------------------
@@ -36,21 +36,37 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
+
 tBodyGyroJerk-XYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAcc-XYZ
+
 fBodyAccJerk-XYZ
+
 fBodyGyro-XYZ
+
 fBodyAccMag
+
 fBodyAccJerkMag
+
 fBodyGyroMag
+
 fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
